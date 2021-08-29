@@ -174,9 +174,25 @@ PrefabInstance:
       propertyPath: m_LocalEulerAnglesHint.z
       value: 0
       objectReference: {fileID: 0}
+    - target: {fileID: -7682568637512073374, guid: 119079b14678b304cb495fc94fca36e6, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -4824600096439275768, guid: 119079b14678b304cb495fc94fca36e6, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
+    - target: {fileID: -1422189823528866996, guid: 119079b14678b304cb495fc94fca36e6, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
+      objectReference: {fileID: 0}
     - target: {fileID: 919132149155446097, guid: 119079b14678b304cb495fc94fca36e6, type: 3}
       propertyPath: m_Name
       value: knightBlue
+      objectReference: {fileID: 0}
+    - target: {fileID: 6020690432248153539, guid: 119079b14678b304cb495fc94fca36e6, type: 3}
+      propertyPath: m_CastShadows
+      value: 0
       objectReference: {fileID: 0}
     m_RemovedComponents: []
   m_SourcePrefab: {fileID: 100100000, guid: 119079b14678b304cb495fc94fca36e6, type: 3}
